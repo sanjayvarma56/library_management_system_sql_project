@@ -1,8 +1,5 @@
 # Library Management System using SQL Project --P1
-
 ## Project Overview
-
-
 **Project Title**: Library Management System  
 **Level**: Intermediate  
 **Database**: `library_db`
